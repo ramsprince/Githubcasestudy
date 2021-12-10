@@ -1,6 +1,2 @@
 This is the first file for Githubassignment5
-<<<<<<< HEAD
 Feature1 has added the text "first feature text"
-=======
-Feature has been added by feature 2 "Feature2 added"
->>>>>>> feature2
